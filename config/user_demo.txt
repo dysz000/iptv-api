@@ -1,14 +1,14 @@
 📺央视频道,#genre#
-中央电视台1台
-中央电视台二台
+CCTV-1
+CCTV-2
 CCTV-3
-中央电视台四台
-中央电视台5台
-中央电视台5+
-中央电视台6台
+CCTV-4
+CCTV-5
+CCTV-5+
+CCTV-6
 CCTV-7
 CCTV-8
-中央电视台9台
+CCTV-9
 CCTV-10
 CCTV-11
 CCTV-12
@@ -17,10 +17,10 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
-华东电视台1台
-欧洲电视2台
-中国电视四台
-欧洲卫视5
+CETV1
+CETV2
+CETV4
+CETV5
 先锋乒羽
 
 💰央视付费频道，#genre#
